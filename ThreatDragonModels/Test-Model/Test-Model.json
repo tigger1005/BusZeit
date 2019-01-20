@@ -1,6 +1,8 @@
 {
   "summary": {
-    "title": "Test-Model"
+    "title": "Test-Model",
+    "owner": "Ich",
+    "description": "TPM"
   },
   "detail": {
     "contributors": [],
